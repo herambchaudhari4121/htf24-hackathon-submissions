@@ -1,4 +1,13 @@
-# Appwrite Hacktoberfest '24 Hackathon
+<!DOCTYPE html>
+<html>
+<body>
+
+<h2>Appwrite Hacktoberfest '24 Hackathon</h2>
+
+<img src="https://hacktoberfest.appwrite.io/_app/immutable/assets/prizes.B78qQB8N.avif" alt="W3Schools.com" style="width:904px;height:542px;">
+
+</body>
+</html>
 
 ## Table Of Contents
 
